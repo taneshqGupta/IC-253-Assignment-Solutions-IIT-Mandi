@@ -27,7 +27,7 @@
 ##### Assignment 2
 ###### Topics: Linked Lists (Singly, Doubly, Circular), Insertion Sort Algorithm, Performance Analysis (Comparisons and Swaps)
 ###### Question Paper: [assignment2_question_paper.pdf](ic253assignment2/assignment2_question_paper.pdf)
-###### Solutions: [insertionsort.cpp](ic253assignment2/insertionsort.cpp) | [linkedlist.cpp](ic253assignment2/linkedlist.cpp) | [q1.cpp](ic253assignment2/q1.cpp) | [q1_practice.cpp](ic253assignment2/q1_practice.cpp) | [q3.cpp](ic253assignment2/q3.cpp)
+###### Solutions: [insertionsort.cpp](ic253assignment2/insertionsort.cpp) | [q1.cpp](ic253assignment2/q1.cpp) | [q1_practice.cpp](ic253assignment2/q1_practice.cpp) | [q3.cpp](ic253assignment2/q3.cpp)
 
 ##### Assignment 3
 ###### Topics: Binary Trees, Stacks, Expression Conversion (Infix to Postfix, Postfix to Infix), Parenthesis Matching, Merge Sort, Tower of Hanoi, Linked List Position Finding
