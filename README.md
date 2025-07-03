@@ -69,4 +69,4 @@
 ###### For questions or discussions about the implementations, feel free to reach out.
 
 ###### ---
-###### *The best way to learn is to do; the worst way to teach is to talk.* - P.R. Halmos
+###### *"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."* - Linus Torvalds
