@@ -10,13 +10,6 @@
 ###### Institution: IIT-Mandi
 ###### Semester: Jan-July 2025
 
-#### Repository Structure
-
-###### This repository contains solutions to all assignments organized in separate folders for each assignment. Each assignment folder includes:
-###### - Question paper PDF
-###### - Solution files (C++ implementations)
-###### - Additional supporting files where applicable
-
 #### Assignment Overview
 
 ##### Assignment 1
