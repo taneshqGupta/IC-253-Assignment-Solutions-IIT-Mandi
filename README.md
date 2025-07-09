@@ -48,10 +48,10 @@
 #### Usage
 
 ###### To compile and run any C++ file:
-###### ```
-###### g++ filename.cpp -o sol
-###### ./sol
-###### ```
+```bash
+g++ filename.cpp -o sol
+./sol
+```
 
 #### Academic Integrity
 
